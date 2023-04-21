@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 div::before{
-	content: "Before Element ";
+	content: "Before Element";
 	color: red;
 }
 div::after{
