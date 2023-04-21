@@ -4,6 +4,6 @@ div::before{
 	color: red;
 }
 div::after{
-	content: " After Element";
+	content: "After Element";
 	color: red;
 }
